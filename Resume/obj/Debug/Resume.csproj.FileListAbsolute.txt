@@ -1,0 +1,167 @@
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Resume.dll.config
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Resume.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Resume.pdb
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Antlr3.Runtime.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\EntityFramework.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\EntityFramework.SqlServer.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Google.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Web.Infrastructure.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Newtonsoft.Json.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Owin.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Helpers.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Mvc.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Optimization.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Razor.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.WebPages.Deployment.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.WebPages.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.WebPages.Razor.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\WebGrease.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Helpers.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Mvc.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Optimization.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.Razor.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.WebPages.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.WebPages.Deployment.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\System.Web.WebPages.Razor.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Antlr3.Runtime.pdb
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Newtonsoft.Json.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\EntityFramework.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\EntityFramework.SqlServer.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Google.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\obj\Debug\Resume.dll
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\obj\Debug\Resume.pdb
+c:\users\devjyoti\documents\visual studio 2013\Projects\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+E:\work-back\Resume\Resume\Resume\bin\Resume.dll.config
+E:\work-back\Resume\Resume\Resume\bin\Resume.dll
+E:\work-back\Resume\Resume\Resume\bin\Resume.pdb
+E:\work-back\Resume\Resume\Resume\bin\Antlr3.Runtime.dll
+E:\work-back\Resume\Resume\Resume\bin\EntityFramework.dll
+E:\work-back\Resume\Resume\Resume\bin\EntityFramework.SqlServer.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.AspNet.Identity.Core.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Cookies.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Facebook.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Google.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.OAuth.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Twitter.dll
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Web.Infrastructure.dll
+E:\work-back\Resume\Resume\Resume\bin\Newtonsoft.Json.dll
+E:\work-back\Resume\Resume\Resume\bin\Owin.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Helpers.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Mvc.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Optimization.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Razor.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.WebPages.Deployment.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.WebPages.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.WebPages.Razor.dll
+E:\work-back\Resume\Resume\Resume\bin\WebGrease.dll
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Helpers.xml
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Mvc.xml
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Optimization.xml
+E:\work-back\Resume\Resume\Resume\bin\System.Web.Razor.xml
+E:\work-back\Resume\Resume\Resume\bin\System.Web.WebPages.xml
+E:\work-back\Resume\Resume\Resume\bin\System.Web.WebPages.Deployment.xml
+E:\work-back\Resume\Resume\Resume\bin\System.Web.WebPages.Razor.xml
+E:\work-back\Resume\Resume\Resume\bin\Antlr3.Runtime.pdb
+E:\work-back\Resume\Resume\Resume\bin\Newtonsoft.Json.xml
+E:\work-back\Resume\Resume\Resume\bin\EntityFramework.xml
+E:\work-back\Resume\Resume\Resume\bin\EntityFramework.SqlServer.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.AspNet.Identity.Core.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Facebook.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Cookies.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.OAuth.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Google.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.Twitter.xml
+E:\work-back\Resume\Resume\Resume\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\work-back\Resume\Resume\Resume\obj\Debug\Resume.csprojAssemblyReference.cache
+E:\work-back\Resume\Resume\Resume\obj\Debug\Resume.csproj.CoreCompileInputs.cache
+E:\work-back\Resume\Resume\Resume\obj\Debug\Resume.csproj.CopyComplete
+E:\work-back\Resume\Resume\Resume\obj\Debug\Resume.dll
+E:\work-back\Resume\Resume\Resume\obj\Debug\Resume.pdb
+F:\Sagar\Work\task\Resume\Resume\bin\Resume.dll.config
+F:\Sagar\Work\task\Resume\Resume\bin\Resume.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Resume.pdb
+F:\Sagar\Work\task\Resume\Resume\bin\Antlr3.Runtime.dll
+F:\Sagar\Work\task\Resume\Resume\bin\EntityFramework.dll
+F:\Sagar\Work\task\Resume\Resume\bin\EntityFramework.SqlServer.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Google.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Web.Infrastructure.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Newtonsoft.Json.dll
+F:\Sagar\Work\task\Resume\Resume\bin\Owin.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Helpers.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Mvc.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Optimization.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Razor.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.WebPages.Deployment.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.WebPages.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.WebPages.Razor.dll
+F:\Sagar\Work\task\Resume\Resume\bin\WebGrease.dll
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Helpers.xml
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Mvc.xml
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Optimization.xml
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.Razor.xml
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.WebPages.xml
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.WebPages.Deployment.xml
+F:\Sagar\Work\task\Resume\Resume\bin\System.Web.WebPages.Razor.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Antlr3.Runtime.pdb
+F:\Sagar\Work\task\Resume\Resume\bin\Newtonsoft.Json.xml
+F:\Sagar\Work\task\Resume\Resume\bin\EntityFramework.xml
+F:\Sagar\Work\task\Resume\Resume\bin\EntityFramework.SqlServer.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Google.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Sagar\Work\task\Resume\Resume\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Sagar\Work\task\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+F:\Sagar\Work\task\Resume\Resume\obj\Debug\Resume.dll
+F:\Sagar\Work\task\Resume\Resume\obj\Debug\Resume.pdb

@@ -1,0 +1,125 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2 class="text-center bottomLine">@ViewBag.Title.</h2>
+<br />
+<div class="row">
+    <div class="col-md-4">
+        <form onsubmit="event.preventDefault(); onFormSubmit();" autocomplete="on">
+            <fieldset>
+                <div class=" form-group">
+                    <label for="exampleInputEmail1" class="bottomLine">Email address</label>
+                    <input type="email" class="form-control" value="" id="email" aria-describedby="emailHelp" placeholder="Contact@example.com" required>
+                    @*<label class="validation-error hide btn-danger" id="fullNameValidationError"></label>*@
+
+                </div>
+                <div class="form-group">
+                    <label for="name" class="bottomLine">Name</label>
+                    <input type="text" class="form-control" id="name" aria-describedby="emailHelp" placeholder="Enter Full Name" required minlength="3" maxlength="100">
+                </div>
+                <div class="form-group">
+                    <label for="Phone" class="bottomLine">Phone</label>
+                    <input type="number" class="form-control" id="phone" value="880" aria-describedby="emailHelp" placeholder="Enter Number" required minlength="13" maxlength="13">
+                </div>
+
+                <fieldset class="form-group">
+                    <label class="bottomLine">Gender</label>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input type="radio" class="form-check-input" name="gender" id="gender" value="Male" checked="">
+                                    Male
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input type="radio" class="form-check-input" name="gender" id="gender" value="Female">
+                                    Female
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </fieldset>
+                <div class="form-group">
+                    <label for="exampleSelect1" class="bottomLine">Problem Types</label>
+                    <select class="form-control" id="drp">
+                        <option>Problem Type 1</option>
+                        <option>Problem Type 2</option>
+                        <option>Problem Type 3</option>
+                        <option>Problem Type 4</option>
+                        <option>Problem Type 5</option>
+                    </select>
+                </div>
+            </fieldset>
+            <fieldset class="form-group">
+                <div class="form-group">
+                    <label for="exampleTextarea" class="bottomLine">Message</label>
+                    <textarea class="form-control" placeholder="Enter your Message.." id="message" rows="3" maxlength="255"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Add</button>
+            </fieldset>
+        </form>
+    </div>
+
+    <div class="col-md-8">
+
+        @*<div class="mapouter">
+                <div class="gmap_canvas">
+                    <iframe id="gmap_canvas" width="400" height="200" src="https://maps.google.com/maps?q=raven%20system&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://yt2.org"></a><br>
+                </div>
+            </div>*@
+        <table class="list table table-hover" id="infoList">
+            <thead>
+                <tr class="table-success text-center">
+                    <th>Email</th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Gender</th>
+                    <th>Problems</th>
+                    <th>Message</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody class="text-center"></tbody>
+        </table>
+        <button class="btn btn-info float-right" > Send</button>
+
+        @*<table class="list table table-hover" id="infoList">
+                <thead>
+                    <tr class="table-success">
+                        <td>Email</td>
+                    </tr>
+                    <tr class="table-success">
+                        <td>Name</td>
+                    </tr>
+                    <tr class="table-success">
+                        <td>Phone</td>
+                    </tr>
+                    <tr class="table-success">
+                        <td>Email</td>
+                    </tr>
+                    <tr class="table-success">
+                        <td>Email</td>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>*@
+        <address>
+            Raven System Ltd<br />
+            Baridhara DOHS<br />
+            Phone:+880-2-982221, 9822334, 9820594, 9822333. <br />
+            Fax:+880-2-9820593
+        </address>
+
+        <address>
+            <strong>Support:</strong>   <a href="mailto:Support@dird.com">Support</a><br />
+            <strong>Marketing:</strong> <a href="mailto:Marketing@dird.com">Marketing</a>
+        </address>
+    </div>
+</div>
